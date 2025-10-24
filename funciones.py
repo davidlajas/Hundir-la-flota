@@ -33,3 +33,4 @@ def disparar(fila,columna,tablero,tablero_oculto):
         return "Agua"
     else: 
         return "Error"
+    
